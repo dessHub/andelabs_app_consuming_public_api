@@ -1,8 +1,8 @@
     # Import the helper gateway class
 from AfricasTalkingGateway import AfricasTalkingGateway, AfricasTalkingGatewayException
     # Specify your login credentials
-username = "desshub"
-apikey   = "b8a87060086b16297c5ebe5190964f09fd258ec51a969ad88cd8c131243ef8fc"
+username = "dess.k"
+apikey   = "05d783782ea5c0dd801d89580ccc228ded9ba0ed12fb089a3ee7bbe4774f9f81"
 
 def get_phone_number():
     input_var = raw_input("Enter phone no ,including country code: ")
